@@ -1,19 +1,22 @@
 <h1 align="center">Hey there, I'm Babji 👋</h1>
-<h3 align="center">Aspiring Frontend & AI Developer | Passionate about building interactive web apps</h3>
+<h3 align="center">💻 Fresher Frontend Developer | Skilled in React, JavaScript, and Tailwind CSS | Open to work and learning opportunities</h3>
+
 
 ---
 
 ### 💻 About Me
-- 🔭 Currently working on **React.js and JavaScript projects**
-- 🌱 Learning **MERN stack & AI integration**
-- 💬 Ask me about **React, Tailwind CSS, and Frontend Development**
+- 👋 I'm **Dudekula Babji**, a Computer Science graduate passionate about web development.  
+- 🌱 I’ve learned **HTML**, **CSS**, **JavaScript**, **React.js**, and **Tailwind CSS**.  
+- 💼 I'm a **fresher**, ready to start my professional journey as a **Frontend Developer**.  
+- 💬 I enjoy building responsive and user-friendly websites.  
+- ⚡ My goal is to grow as a developer by continuously learning and contributing to real-world projects.
 - ⚡ Fun fact: I love clean UI design and problem solving.
 
 ---
 
 ### 🧠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,python,nodejs,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,python,sql,git,github,vscode" />
 </p>
 
 ---
@@ -49,8 +52,15 @@
 </p>
 
 ---
+---
 
-### ✨ Visitor Count
+### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DudekulaBabji&label=Profile%20Views&color=blue&style=for-the-badge" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DudekulaBabji&theme=radical&no-frame=true&margin-w=10" />
 </p>
+
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DudekulaBabji&theme=react-dark" />
+</p>
+
